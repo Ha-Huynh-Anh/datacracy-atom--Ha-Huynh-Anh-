@@ -1,4 +1,4 @@
-# datacracy-atom-Ha-Huynh-Anh-
+# DATA-ATOM-Ha-Huynh-Anh-FIRST WEEK
 Hello Atom
 # GITHUB dùng để làm gì?
 + GitHub chủ yếu được sử dụng để lưu trữ mã nguồn phần mềm
