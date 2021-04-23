@@ -11,3 +11,5 @@ Repository hay còn gọi là Repo, dịch ra tiếng Việt có nghĩa là kho,
 # Fork repo (DATAcracy) nhằm mục đích gì?
 + Một fork là một bản copy của một repository (Kho chứa source code của bạn trên Github). Fork repo nhằm chỉnh sửa, thay đổi source code mà không ảnh hưởng tới source gốc.
 # Giải thích ý nghĩa của Branch, Commit mesage bạn thấy khi link Colab với Github?
++ Branch được sử dụng để phân nhánh và ghi lại luồng của lịch sử. Branch đã phân nhánh sẽ không ảnh hưởng đến branch khác nên có thể tiến hành nhiều thay đổi đồng thời trong cùng 1 repository.
++ Commit message để ghi lại những điểm quan trọng liên quan đến file đã lưu.
